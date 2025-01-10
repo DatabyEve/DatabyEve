@@ -1,5 +1,5 @@
-# Welcome to Eva's Repository!
-Hello! I'm **Eva**, a passionate Data Analyst with a love for uncovering insights through data. I’m constantly working to improve my skills and create impactful projects that make data meaningful and actionable.
+# Welcome to Eve's Repository!
+Hello! I'm **Eve**, a passionate Data Analyst with a love for uncovering insights through data. I’m constantly working to improve my skills and create impactful projects that make data meaningful and actionable.
 
 ## About Me
 - 💻 **Skills**: Data Analysis, SQL, Excel, Power BI, Tableau
