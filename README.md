@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to Eva's Repository!
+Hello! I'm **Eva**, a passionate Data Analyst with a love for uncovering insights through data. I’m constantly working to improve my skills and create impactful projects that make data meaningful and actionable.
 
-<!--
-**DatabyEve/DatabyEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 **Skills**: Data Analysis, SQL, Excel, Power BI, Tableau
+- 🌱 **Currently Learning**: Python for data analytics, Git and GitHub
+- 🎯 **Goals**: To become the greatest and Impactful data analyst.
+- ⚡ **Fun Fact**: I enjoy cycling, reading and playing board games in my free time.
 
-Here are some ideas to get you started:
+## What You’ll Find Here
+This repository is my personal hub for:
+- 📂 Data analysis projects and visualizations
+- 📘 Tutorials and guides I’ve created
+- 🛠️ Useful scripts and tools for working with data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- 🌐 
+- 📧 evanyamanga20@gmail.com
+- 💼 https://www.linkedin.com/in/everlyne-nyamanga-b17255190/
+
+## Thank You for Visiting!
+Feel free to explore, give feedback or collaborate on any projects. Let’s create something amazing together! 🚀
+
