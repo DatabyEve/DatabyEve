@@ -1,15 +1,15 @@
 # Welcome to Eve's Repository!
-Hello! I'm **Eve**, a passionate Data Analyst with a love for uncovering insights through data. I’m constantly working to improve my skills and create impactful projects that make data meaningful and actionable.
 
-## About Me
-- 💻 **Skills**: Data Analysis, SQL, Excel, Power BI, Tableau
-- 🌱 **Currently Learning**: Python for data analytics, Git and GitHub
-- 🎯 **Goals**: To become the greatest and Impactful data analyst.
-- ⚡ **Fun Fact**: I enjoy cycling, reading and playing board games in my free time.
+Hello👋! I'm Eve, a passionate Data Analyst with a love for uncovering insights through data. I successfully developed impactful projects that transform raw data into meaningful and actionable insights. 
 
-## What You’ll Find Here
+- 💻 **Skills**: Data Analysis| SQL| Excel| Power BI| Tableau
+- 🌱 **Currently Learning**: 🐍Python Language
+- 🎯 **Goals**: Aiming to master data storytelling, analyze more real world datasets and contribute to open-source projects.
+- ⚡ **Fun Fact**: I make data make sense because gut feelings don’t scale 🚀!
+
+
 This repository is my personal hub for:
-- 📂 Data analysis projects and visualizations
+- 📂 Data analysis projects and visualizations📊
 - 📘 Tutorials and guides I’ve created
 - 🛠️ Useful scripts and tools for working with data
 
