@@ -1,11 +1,10 @@
 # Welcome to DatabyEve's Repository!
 
-Hello! I'm Eve, a passionate Data Analyst with a love for uncovering insights through data. I’m constantly working to improve my skills and create impactful projects that make data meaningful and actionable.
-## About Me
-- 💻 **Skills** :Data Analysis, SQL, Power BI, Excel and Tableau.
-- 🌱 **Currently Learning**: Python for data analytics, Git and Github.
-- 🎯 **Goals**: To become the greatest and impacful data analyst. 
-- ⚡ **Fun Fact**:I enjoy cycling, studying and playing board games in my free time.
+Hello👋! I'm Eve, a passionate Data Analyst with a love for uncovering insights through data. I successfully developed impactful projects that transform raw data into meaningful and actionable insights.
+- 💻 **Skills** :Data Analysis|SQL |Power BI| Excel| Tableau.
+- 🌱 **Currently Learning**: 🐍 Python Language.
+- 🎯 **Goals**: Aiming to master data storytelling, analyze more real world datasets and contribute to open-source projects.
+- ⚡ **Fun Fact**:I make data make sense because gut feelings don’t scale 🚀!
 
 ## What You’ll Find Here
 This repository serves as a hub for:
@@ -19,4 +18,4 @@ This repository serves as a hub for:
 - 💼 https://www.linkedin.com/in/everlyne-nyamanga-b17255190/
 
 ## Thank You for Visiting!
-Feel free to explore, give feedback, or collaborate on any projects. Let's build something amazing together! 🚀
+Feel free to explore, give feedback or collaborate on any projects. Let's build something amazing together! 🚀
